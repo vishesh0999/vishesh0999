@@ -1,12 +1,13 @@
-# Hi, I'm Vishesh Prajapati 👋
-
-### AI Product Manager building GenAI products that 10,000+ users actually trust
+# 👋 Hi, I'm Vishesh Prajapati
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visheshprajapati-aipm)
+
+### AI Product Manager | Enterprise GenAI @ The Home Depot
+**Shipping LLM-powered products to 470K+ users across 2,000+ locations**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshprajapati-aipm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.aipm@gmail.com)
-[![Location](https://img.shields.io/badge/Chicago,_IL-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Chicago,_IL-00599C?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
@@ -14,212 +15,239 @@
 
 ## 🎯 What I Do
 
-I ship **enterprise GenAI products** that solve the hardest problem in AI: getting people to use them.
+I build **enterprise GenAI products** that scale from POC to production—serving hundreds of thousands of users, not just impressive demos.
 
-Not demo theater. Not proof-of-concepts. Production systems serving **10,000+ daily users** at Fortune 50 scale.
+```
+Current Mission: Delivering AI-powered conversational assistants at The Home Depot
+              serving store associates across 2,000+ retail locations
 
-I spent four years learning that anyone can launch an LLM feature. The real product challenge is building RAG architectures that reduce hallucinations by 40%, conversational workflows people don't question, and governance frameworks that let you move fast without breaking compliance.
+Product Stack: RAG Architecture • LLMs (Gemini, GPT-4, Claude) • Prompt Engineering
+              Semantic Search • Vector Databases • A/B Testing • AI Governance
 
-**Current Focus:** Leading AI product strategy at **The Home Depot** | Building GenAI assistants that improve operational efficiency by 22% | Shipping features that drive 28% adoption growth through trust, not hype
-
----
-
-## 💼 Experience Snapshot
-
-### 🏠 **The Home Depot** — AI Product Manager
-*Aug 2024 – Present | Chicago, IL*
-
-Building the GenAI assistant that 10,000+ store associates use daily. Not "could use"—actually use.
-
-**Key Achievements:**
-- 📈 **28% growth** in daily active usage through product strategy focused on reliability over novelty
-- 🎯 **40% reduction** in LLM hallucinations via production RAG architecture with vector databases
-- ⚡ **22% operational efficiency gains** across enterprise workflows
-- 🚀 **25% faster task completion** through conversational AI design validated by A/B testing
-- ✅ **Zero critical defects** across 8+ production releases with 20% faster release cycles
-- 🔍 **30% improvement** in semantic search relevance through optimized retrieval pipelines
-- 🛡️ Built responsible AI governance framework: prompt versioning, safety guardrails, bias detection
-
-**What I Built:**
-- End-to-end GenAI product strategy and roadmap execution
-- RAG architecture integrating enterprise knowledge sources with LLMs (GPT-4, Claude, Gemini)
-- Conversational AI experiences across web and mobile platforms
-- Experimentation infrastructure for continuous prompt optimization
-- Semantic search pipelines with vector databases for improved retrieval
-- AI governance frameworks enabling compliant enterprise deployment
+Track Record: 4+ years shipping products that drive measurable adoption,
+             operational efficiency, and business outcomes at Fortune 20 scale
+```
 
 ---
 
-### 💡 **Accenture** — Product Manager
-*Sept 2020 – Aug 2023 | India*
+## 💡 My Product Philosophy
 
-Owned enterprise SaaS platform serving 5,000+ users. Learned that great products eliminate work, not create new workflows.
+> **The best AI products are invisible.** They disappear into workflows users trust enough to depend on daily. That requires obsessive focus on accuracy, governance, and solving real problems—not just model performance metrics.
 
-**Key Achievements:**
-- 🎯 **5,000+ users** adopted platform eliminating 15+ manual workflow steps
-- ⚡ **28% reduction** in fulfillment cycle time through workflow redesign
-- 📊 **22% operational efficiency** improvement across core business processes
-- 🚀 **95% on-time delivery** managing 300+ Agile backlog items
-- 📈 **18% adoption increase** in 6 months via SQL-driven feature prioritization
-- 📝 **30% fewer clarification cycles** through structured PRD frameworks
-- 🔧 **20% reduction** in integration defects via API requirement definition
-
-**What I Built:**
-- Product roadmap strategy for digital transformation platform
-- Cross-functional Agile delivery infrastructure with 300+ backlog items
-- Data-driven feature prioritization using SQL analytics and executive dashboards
-- User workflow redesigns validated through process mapping and user testing
-- API integration requirements and release validation frameworks
+**Core Beliefs:**
+- 📊 **Adoption > Innovation** — Ship products users actually use, not features that demo well
+- 🎯 **Impact > Complexity** — Business outcomes matter more than technical sophistication  
+- 🔒 **Trust > Speed** — Responsible AI and safety guardrails enable sustainable scale
+- 🧪 **Data > Opinions** — A/B testing and metrics instrumentation drive product decisions
 
 ---
 
-## 🚀 Impact By The Numbers
+## 🚀 Impact at Scale
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>28%</h3>
-<p>Adoption Growth</p>
-<sub>Daily active usage of GenAI assistant</sub>
+<td width="50%">
+
+### 🏠 The Home Depot
+**AI Product Manager** | 2024–Present
+
+**GenAI Platform Serving 470K+ Associates**
+
+🎯 **Product Outcomes**
+- ⚡ **22%** operational efficiency improvement
+- 🎨 **25%** faster task completion time
+- 📈 **28%** increase in daily active usage
+- ✅ **20%** faster release cycles, zero critical defects
+
+🔬 **AI/ML Implementation**
+- 🤖 **40%** reduction in LLM hallucinations via RAG
+- 🔍 **30%** better retrieval latency & relevance
+- 🎯 **18%** resolution accuracy improvement (A/B tested)
+
 </td>
-<td align="center" width="33%">
-<h3>40%</h3>
-<p>Fewer Hallucinations</p>
-<sub>Through production RAG architecture</sub>
-</td>
-<td align="center" width="33%">
-<h3>22%</h3>
-<p>Efficiency Gains</p>
-<sub>Across 10,000+ users at scale</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<h3>10,000+</h3>
-<p>Daily Users</p>
-<sub>Enterprise GenAI platform</sub>
-</td>
-<td align="center" width="33%">
-<h3>Zero</h3>
-<p>Critical Defects</p>
-<sub>Across 8+ production releases</sub>
-</td>
-<td align="center" width="33%">
-<h3>25%</h3>
-<p>Faster Completion</p>
-<sub>Through conversational AI</sub>
+<td width="50%">
+
+### 💼 Accenture
+**Product Manager** | 2020–2023
+
+**Enterprise SaaS Platform (5,000+ Users)**
+
+📊 **Platform Impact**
+- 💪 **22%** operational efficiency gains
+- ⏱️ **28%** cycle time reduction
+- 📈 **18%** adoption increase in 6 months
+- ✅ **95%** on-time delivery rate
+
+⚙️ **Product Operations**
+- 📝 Managed **300+** backlog items (Agile)
+- 🔧 Eliminated **15+** manual workflow steps
+- 🐛 **20%** fewer integration defects
+- ⚡ **30%** faster requirement clarity
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack & Product Skills
 
-### **AI & Generative AI**
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs_(GPT--4,_Claude,_Gemini)-74aa9c?style=flat-square&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logo=chatbot&logoColor=white)
-![Conversational AI](https://img.shields.io/badge/Conversational_AI-0078D4?style=flat-square&logo=microsoftteams&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-00C7B7?style=flat-square&logo=elasticsearch&logoColor=white)
+<details open>
+<summary><b>🤖 AI & GenAI Expertise</b></summary>
 
-### **Platforms & Infrastructure**
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-00D9FF?style=flat-square&logo=postgresql&logoColor=white)
+```
+LLM Platforms:     GPT-4 • Claude • Gemini • Azure OpenAI
+AI Architecture:   RAG • Agentic AI • Semantic Search • Vector Databases
+AI Frameworks:     LangChain • Prompt Engineering • Model Evaluation
+Cloud AI:          Google Vertex AI • AWS SageMaker • Azure OpenAI
+Specializations:   Conversational AI • NLP • Recommendation Systems
+```
 
-### **Product Management**
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-FF6B6B?style=flat-square&logo=target&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
-![PRDs](https://img.shields.io/badge/PRDs-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![OKRs](https://img.shields.io/badge/OKRs-EA4335?style=flat-square&logo=google&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF4785?style=flat-square&logo=ab-testing&logoColor=white)
+</details>
 
-### **Analytics & Technical**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+<details open>
+<summary><b>📦 Product Management</b></summary>
 
-### **Responsible AI**
-![AI Governance](https://img.shields.io/badge/AI_Governance-6B46C1?style=flat-square&logo=shield&logoColor=white)
-![Bias Detection](https://img.shields.io/badge/Bias_Detection-DC2626?style=flat-square&logo=security&logoColor=white)
-![Explainability](https://img.shields.io/badge/Explainability_(SHAP,_LIME)-10B981?style=flat-square&logo=hypothesis&logoColor=white)
-![Compliance](https://img.shields.io/badge/Compliance-1E3A8A?style=flat-square&logo=verified&logoColor=white)
+```
+Strategy:          Product Roadmaps • OKRs • Go-to-Market • 0-to-1 Development
+Execution:         Agile/Scrum • Sprint Planning • Backlog Prioritization
+Documentation:     PRDs • User Stories • Release Planning • Decision Logs
+Stakeholder Mgmt:  Cross-functional Leadership • Executive Communication
+Discovery:         User Research • Requirements Gathering • Feature Prioritization
+```
+
+</details>
+
+<details open>
+<summary><b>📊 Analytics & Technical</b></summary>
+
+```
+Data Analysis:     SQL • Python • BigQuery • Funnel Analysis • Cohort Analysis
+Experimentation:   A/B Testing • Statistical Significance • KPI Definition
+Analytics Tools:   Mixpanel • Google Analytics • Tableau • Power BI
+API/Integration:   REST APIs • Postman • Swagger • API Requirements
+PM Tools:          Jira • Confluence • Figma • Miro • Aha!
+```
+
+</details>
+
+<details open>
+<summary><b>🛡️ Responsible AI & Governance</b></summary>
+
+```
+AI Governance:     Safety Guardrails • Prompt Versioning • Compliance Frameworks
+Trust & Safety:    Hallucination Reduction • Response Evaluation • Model Monitoring
+Explainability:    SHAP • LIME • Bias Detection
+Deployment:        Human-in-the-Loop • Staged Rollouts • Risk Management
+```
+
+</details>
+
+---
+
+## 💼 Professional Experience
+
+### 🏠 **The Home Depot** — AI Product Manager
+**Aug 2024 – Present** | Chicago, IL
+
+Building GenAI products at the world's largest home improvement retailer (**$160B revenue, 2,356 stores, 470K associates**)
+
+**🎯 Product Leadership**
+- Own enterprise GenAI product strategy and roadmap for associate-facing AI platform serving 2,000+ US store locations
+- Drive end-to-end PRD development, Agile delivery, and cross-functional collaboration with engineering, data science, UX, and business teams
+- Designed conversational AI experiences optimizing user journeys and reducing task completion time by 25%
+
+**🤖 AI/ML Product Implementation**
+- Built RAG architecture using Google Cloud Vertex AI and Gemini models, integrating vector databases with enterprise knowledge sources
+- Implemented semantic search pipelines improving document retrieval latency and response relevance by 30%
+- Reduced LLM hallucinations by 40% through strategic prompt engineering and knowledge grounding
+
+**🛡️ Responsible AI & Governance**
+- Established AI governance framework with prompt versioning, response evaluation, and safety guardrails for Fortune 20 compliance
+- Launched controlled A/B experiments validating conversational improvements, increasing resolution accuracy by 18%
+- Designed experimentation infrastructure enabling responsible deployment at enterprise scale
+
+**📊 Analytics & Optimization**
+- Defined product success metrics using Mixpanel, increasing daily active usage by 28% through data-driven prioritization
+- Analyzed user behavior in BigQuery using SQL to inform feature roadmap and business decisions
+- Integrated GenAI platform into web and mobile applications via REST APIs, improving in-store adoption
+
+---
+
+### 💼 **Accenture** — Product Manager
+**Sept 2020 – Aug 2023** | India
+
+Owned enterprise SaaS platform roadmap serving **5,000+ internal users** across digital transformation workflows
+
+**📋 Product Strategy & Execution**
+- Delivered 22% operational efficiency improvement through strategic roadmap ownership and Agile execution
+- Managed 300+ backlog items using Jira, achieving 95% on-time delivery across cross-functional teams
+- Authored comprehensive PRDs and release documentation in Confluence, reducing requirement clarification by 30%
+
+**🔄 Workflow Optimization**
+- Led discovery workshops and process mapping, eliminating 15+ manual workflow steps
+- Reduced fulfillment cycle time by 28% through strategic workflow redesign
+- Collaborated with UX teams on wireframe validation, improving task completion speed by 25%
+
+**📊 Data-Driven Product Operations**
+- Leveraged SQL and analytics dashboards to drive feature prioritization, increasing platform adoption by 18% in 6 months
+- Built executive KPI dashboards in Tableau providing leadership visibility into delivery progress
+- Partnered with engineering on API integration requirements, reducing integration defects by 20%
 
 ---
 
 ## 🎓 Education
 
-**🎓 DePaul University** — Master of Science in Data Science  
-*Aug 2023 – June 2025 | Chicago, USA*
+**🎓 Master of Science in Data Science**  
+DePaul University, Chicago, IL | 2023–2025
 
-**🎓 Ganpat University** — Bachelor of Technology in Information Technology  
-*Gujarat, India*
-
----
-
-## 💡 Product Philosophy
-
-> **AI products should be judged by adoption and usefulness, not novelty.**
-
-Here's what I've learned shipping production GenAI products:
-
-1. **Trust > Technology** — The best AI features are the ones users don't question. Reliability beats impressive demos.
-
-2. **Workflows > Features** — People don't want AI tools. They want their jobs to be easier. Design for workflows, not capabilities.
-
-3. **Governance = Speed** — Responsible AI isn't compliance theater. It's the infrastructure that lets you move fast without breaking things.
-
-4. **Adoption is the metric** — If your shiny new LLM feature has 5% usage after three months, it's not a product. It's a science project.
-
-5. **Make AI disappear** — The best AI Product Managers make the technology invisible. Users should feel the benefit, not see the model.
+**🎓 Bachelor of Technology in Information Technology**  
+Ganpat University, Gujarat, India
 
 ---
 
-## 🎯 What I'm Building
+## 🏆 What Sets Me Apart
 
-**Right Now:**
-- Enterprise GenAI assistant architecture serving 10,000+ users
-- RAG pipelines that reduce hallucinations in production
-- Experimentation frameworks for continuous prompt optimization
-- Responsible AI governance that enables compliant deployment
-
-**What Drives Me:**
-- Building AI products people trust enough to use daily
-- Solving adoption challenges, not just technical ones
-- Turning LLM capabilities into reliable enterprise workflows
-- Proving AI value through metrics, not marketing
+```diff
++ Ship enterprise AI products that scale beyond demos to real user adoption
++ Combine technical AI depth with business outcomes and product strategy
++ Build responsible AI governance into products from day one, not as an afterthought
++ Drive decisions with data—A/B testing, experimentation, and metrics instrumentation
++ Navigate complex stakeholder environments at Fortune 20 scale
+```
 
 ---
 
 ## 📫 Let's Connect
 
-**I'm open to conversations about:**
-- AI product adoption strategies
-- Responsible deployment at enterprise scale
-- Why your users aren't using that new LLM feature
-- Building GenAI products that people actually trust
+<div align="center">
 
-**Reach me:**
-- 📧 Email: [vishesh.aipm@gmail.com](mailto:vishesh.aipm@gmail.com)
-- 💼 LinkedIn: [visheshprajapati-aipm](https://www.linkedin.com/in/visheshprajapati-aipm)
-- 📍 Location: Chicago, IL
-- 📱 Phone: +1 (312) 929-9739
+### 🤝 Open to Opportunities
+
+**AI Product Manager | Senior AI PM | GenAI Product Leadership Roles**
+
+Interested in collaborating on:
+- 🚀 Scaling AI products from prototype to production
+- 🔒 Implementing responsible AI in enterprise environments  
+- 📊 Solving user adoption challenges for LLM-powered platforms
+- 🎯 Building products that drive measurable business impact
+
+<br>
+
+[![Email](https://img.shields.io/badge/vishesh.aipm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh.aipm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshprajapati-aipm)
+[![Location](https://img.shields.io/badge/Based_in_Chicago,_IL-00599C?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+**📍 Chicago, IL | Open to Relocation**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Building AI products that make work easier, not more complicated
+*"Shipping an LLM feature is easy. Getting thousands of users to trust it daily requires obsessive focus on accuracy, reliability, transparent sourcing, and solving real workflow problems."*
 
-**The Home Depot** • **Accenture** • **Fortune 500 Scale** • **10,000+ Users**
-
-*"The best AI products are the ones where the AI disappears into the workflow."*
+⭐ **Building AI products that users actually adopt, not just demos that look good in slides**
 
 </div>
