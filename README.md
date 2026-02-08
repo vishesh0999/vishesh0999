@@ -1,1 +1,116 @@
-👋 Hi, I'm Vishesh Prajapati ## 🎓 Data Science Graduate Student | Machine Learning & IoT Enthusiast I’m a **Data Science graduate student** at **DePaul University**, specializing in **Machine Learning**, **Natural Language Processing (NLP)**, and **IoT Development**. I have hands-on experience building **AI chatbots**, designing **automation systems**, and developing **data-driven solutions** that improve efficiency and scalability. --- ### 🌟 About Me - 🔭 Currently working on **AI-driven automation systems** and **predictive maintenance models**. - 🌱 Learning more about **cloud computing** and **distributed systems**. - 💬 Ask me about **Python**, **TensorFlow**, **IoT**, or **data analysis**! - 📫 Reach me via email: [Visheshprajapati009@gmail.com](mailto:Visheshprajapati009@gmail.com) - 📍 Based in **Chicago, IL** --- ### 🛠 Skills | Category | Tools/Languages | |-------------------------|----------------------------------------------| | **Programming** | Python, SQL, R, Java, C/C++, JavaScript | | **Machine Learning** | TensorFlow, PyTorch, scikit-learn, NLP | | **Data Tools** | Tableau, Power BI, pandas, NumPy, Matplotlib | | **Cloud/Databases** | PostgreSQL, MySQL, Azure ML (Basic) | | **Automation** | Blue Prism, Automation Anywhere, Raspberry Pi| --- ### 🚀 Projects Here are some of my notable projects: #### 1. **AI Chatbot with NLP** - **Tech Stack**: Python, TensorFlow, Flask - Engineered a chatbot using **NLP** to resolve 500+ customer queries/week, reducing service workload by **35%**. - Deployed via Flask API and integrated with WhatsApp, boosting user engagement by **25%**. [🔗 View Project](https://github.com/jake/ai-chatbot) #### 2. **Predictive Maintenance Model** - **Tech Stack**: Python, scikit-learn, Tableau - Trained a model on manufacturing data to predict equipment failures with **85% precision**, reducing downtime by **30%**. - Visualized insights in Tableau dashboards for proactive maintenance planning. [🔗 View Project](https://github.com/jake/predictive-maintenance) #### 3. **IoT Home Automation System** - **Tech Stack**: Python, Raspberry Pi - Designed a voice-controlled system managing 10+ appliances, cutting setup costs by **40%** vs. commercial solutions. - Awarded “Project of the Year” for innovation and scalability. [🔗 View Project](https://github.com/jake/iot-home-automation) --- ### 🏆 Achievements - Built an **AI chatbot** improving customer service efficiency by **35%**. - Awarded “Project of the Year” for **IoT Home Automation System**. - Automated workflows with Python scripts, saving **10+ hours/week**. - Secured **$15K in sponsorships** for Satrang Youth Festival (14,000+ attendees). --- ### 🤝 Contributions I actively contribute to open-source projects and collaborate with the developer community. Check out my contributions below: - [GitHub Contributions](https://github.com/jake?tab=overview&from=2023-01-01&to=2023-12-31) --- ### 📈 Certifications - **IBM Data Science Professional Certificate** (Coursera) - **Microsoft Azure AI Fundamentals** (In Progress) - **Tableau Desktop Specialist** --- ### 📫 Let's Connect! Feel free to reach out to me for collaborations, questions, or just to say hi! You can find me on: - LinkedIn: [linkedin.com/in/jake](https://www.linkedin.com/in/jake) - Email: [Visheshprajapati009@gmail.com](mailto:Visheshprajapati009@gmail.com) - GitHub: [@jake](https://github.com/jake) --- ### 📜 License This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. --- > *"The best way to predict the future is to create it."* – Peter Drucker"
+# Vishesh Prajapati 👋  
+AI Product Manager | Enterprise GenAI & SaaS Products  
+
+Chicago, IL  
+
+---
+
+## About Me
+
+I build **AI products that people actually use**.
+
+I learned this the hard way — watching a technically solid GenAI assistant fail because users didn’t trust it. That moment reshaped how I approach AI product management. I stopped optimizing for demos and started optimizing for **adoption, reliability, and workflows that work on a random Tuesday**.
+
+Over the last 4+ years, I’ve shipped **enterprise GenAI and SaaS products** at Fortune 500 scale, focusing on measurable outcomes instead of novelty.
+
+---
+
+## What I Work On (Practically)
+
+- Enterprise **GenAI products** with real users (10,000+)
+- **LLM-powered systems** designed for trust, not hype
+- Retrieval-Augmented Generation (RAG) to reduce hallucinations
+- Conversational AI embedded into real workflows
+- Product strategy driven by **usage, efficiency, and adoption metrics**
+
+I care more about **daily active users** than model release notes.
+
+---
+
+## Impact Highlights
+
+- 📈 **28% growth in daily adoption** of an enterprise GenAI assistant  
+- ⚙️ **22% operational efficiency gains** across core workflows  
+- 🧠 **40% reduction in hallucinations** using production RAG architecture  
+- ⏱️ **25% faster task completion** via conversational AI workflows  
+- 🧪 **18% improvement in resolution accuracy** through A/B testing  
+
+All of this shipped, measured, and used in production :contentReference[oaicite:1]{index=1}.
+
+---
+
+## Experience
+
+### 🏢 The Home Depot — AI Product Manager  
+*Chicago | Aug 2024 – Present*
+
+- Own product strategy and roadmap for an associate-facing GenAI platform
+- Shipped an enterprise assistant used daily by **10,000+ store associates**
+- Designed and deployed **RAG architectures** reducing incorrect responses by 40%
+- Built responsible AI governance: prompt versioning, guardrails, evaluations
+- Led experimentation and analytics (Mixpanel, A/B testing) to drive adoption
+
+---
+
+### 🏢 Accenture — Product Manager  
+*India | Sept 2020 – Aug 2023*
+
+- Owned enterprise SaaS roadmap serving **5,000+ internal users**
+- Eliminated **15+ manual workflows**, reducing cycle time by 28%
+- Managed 300+ backlog items with 95% on-time delivery
+- Authored PRDs, led Agile execution, and partnered across engineering & UX
+- Used SQL and dashboards to drive data-informed prioritization
+
+---
+
+## Core Skills
+
+**Product Management**
+- Product Strategy, Roadmaps, PRDs
+- Agile / Scrum, Backlog Prioritization
+- Metrics, OKRs, Experimentation
+- Cross-functional leadership
+
+**AI & GenAI**
+- LLMs (GPT-4, Claude, Gemini)
+- Retrieval-Augmented Generation (RAG)
+- Conversational & Agentic AI
+- Semantic Search
+
+**Technical & Analytics**
+- Python, SQL
+- A/B Testing & Experimentation
+- Tableau, Power BI, Mixpanel
+- APIs, Vector Databases, Cloud AI platforms
+
+**Responsible AI**
+- Governance & guardrails
+- Bias & reliability controls
+- Human-in-the-loop systems
+
+---
+
+## Philosophy
+
+AI products should be judged by:
+1. **Adoption**
+2. **Usefulness**
+3. **Trust**
+
+If the AI doesn’t disappear smoothly into the workflow, it’s not ready.
+
+---
+
+## Education
+
+🎓 **Master of Science in Data Science** — DePaul University, Chicago  
+🎓 **Bachelor of Technology in Information Technology** — Ganpat University  
+
+---
+
+## Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vishesh-prajapati-aipm  
+- 📫 Email: vishesh.aipm@gmail.com  
+
+If you’re building **enterprise AI products** and wondering why users aren’t adopting them — that’s a conversation I care about.
